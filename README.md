@@ -46,6 +46,7 @@ Web design is the practice of crafting visually engaging, usable, and accessible
 - [Coolors](https://coolors.co/) – Fast color palette generator.
 - [Color Hunt](https://colorhunt.co/) – Curated color palette inspiration.
 - [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html) – Build WCAG-compliant color palettes.
+- [ColorTools](https://colorpicker.cx/) – Free image color picker, color wheel, palette generator, CSS gradient builder, and WCAG/APCA contrast checker.
 
 ## Layout & Grids
 
