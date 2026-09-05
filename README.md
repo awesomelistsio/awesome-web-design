@@ -1,4 +1,4 @@
-# Awesome Web Design [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Web Design [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -118,10 +118,10 @@ Web design is the practice of crafting visually engaging, usable, and accessible
 
 ## Related Awesome Lists
 
-- **[Awesome UX](https://github.com/awesomelistsio/awesome-ux)** – Tools and resources for improving user experience.
-- **[Awesome CSS](https://github.com/awesomelistsio/awesome-css)** – CSS tools, techniques, and frameworks.
-- **[Awesome HTML5](https://github.com/awesomelistsio/awesome-html5)** – Modern HTML5 guides and resources.
-- **[Awesome Figma](https://github.com/awesomelistsio/awesome-figma)** – Plugins and resources for Figma users.
+- **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux)** – Tools and resources for improving user experience.
+- **[Awesome CSS](https://github.com/brandonhimpfen/awesome-css)** – CSS tools, techniques, and frameworks.
+- **[Awesome HTML5](https://github.com/brandonhimpfen/awesome-html5)** – Modern HTML5 guides and resources.
+- **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma)** – Plugins and resources for Figma users.
   
 ## Contribute
 
